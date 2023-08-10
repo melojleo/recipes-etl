@@ -7,7 +7,7 @@ This repository contains a Python script that performs ETL (Extract, Transform, 
 1. **Clone the Repository:** Start by cloning this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/hf_bi_python_excercise.git
+   git clone https://github.com/melojleo/recipes-etl
 
 2. **Navigate to the Directory:** Move into the recipes-etl directory:
 
